@@ -1,2 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:5.3.1
-MAINTAINER  ’≈∫ÿ≈Û zhanghepeng@aliyun.com
+FROM gcr.io/google_containers/etcd-amd64:3.0.17
